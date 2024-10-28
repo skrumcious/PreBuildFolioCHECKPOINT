@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/folio/static/css/main.38ba8fe5.css",
-    "main.js": "/folio/static/js/main.68784c67.js",
-    "index.html": "/folio/index.html",
-    "main.38ba8fe5.css.map": "/folio/static/css/main.38ba8fe5.css.map",
-    "main.68784c67.js.map": "/folio/static/js/main.68784c67.js.map"
+    "main.css": "/PreBuildFolioCHECKPOINT/static/css/main.38ba8fe5.css",
+    "main.js": "/PreBuildFolioCHECKPOINT/static/js/main.68784c67.js",
+    "index.html": "/PreBuildFolioCHECKPOINT/index.html",
+    "main.38ba8fe5.css.map": "/PreBuildFolioCHECKPOINT/static/css/main.38ba8fe5.css.map",
+    "main.68784c67.js.map": "/PreBuildFolioCHECKPOINT/static/js/main.68784c67.js.map"
   },
   "entrypoints": [
     "static/css/main.38ba8fe5.css",
